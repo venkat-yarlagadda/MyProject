@@ -17,3 +17,5 @@
     <button type="button" class="cancelbtn">Cancel</button>
     <span class="psw">Forgot <a href="#">password?</a></span>
   </div>
+  
+<h2>This is footer</h2>
