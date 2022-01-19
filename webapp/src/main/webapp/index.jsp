@@ -1,4 +1,4 @@
-<h1>Application is Running</h1>
+<h1>Devops Project</h1>
 
 <div class="container">
     <label for="uname"><b>Username</b></label>
